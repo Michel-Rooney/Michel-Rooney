@@ -22,5 +22,5 @@
    <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
   
-![Snake animation](https://github.com/Michel-Rooney/Michel-Rooney/blob/main/github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/Michel-Rooney/Michel-Rooney/blob/output/github-contribution-grid-snake.svg)
 
