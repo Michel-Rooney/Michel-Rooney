@@ -35,7 +35,6 @@ jobs:
       with:
         target_branch: output
         build_dir: dist
-  
-      env:
-        # a github token is required to fetch the contribution calendar from github API
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
+    env:
+      # a github token is required to fetch the contribution calendar from github API
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
