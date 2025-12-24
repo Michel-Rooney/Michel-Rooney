@@ -28,6 +28,14 @@
    <a href="https://t.me/@MichelRooney" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
-<div align="center">
+<div align="center" align="center">
   <img src="https://github.com/Michel-Rooney/Michel-Rooney/blob/output/github-snake-dark.svg" alt="Snake animation">
+</div>
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github.com/rafa-coelho/toalha.dev/blob/main/historico/2025-2-operacao-natal/3o-lugar/badge.png" alt="3º Lugar - Operação Natal 2025/2" width="200"/>
+
+  **🥉 3º Lugar - Operação Natal 2025/2 | toalha.dev**
 </div>
